@@ -1,0 +1,10 @@
+const ADD_MOVIE = 'ADD_MOVIE'
+const RESET_MOVIES = 'RESET_MOVIES'
+const ACCEPT_MOVIE = 'ACCEPT_MOVIE'
+
+
+export default {
+  ADD_MOVIE,
+  RESET_MOVIES,
+  ACCEPT_MOVIE
+}
